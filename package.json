@@ -1,6 +1,6 @@
 {
   "name": "crossfilterplus",
-  "version": "0.1.2",
+  "version": "1.1.2",
   "description": "Wrapper over crossfilter to manipulate data easily. It is developer friendly in nature.",
   "main": "index.js",
   "scripts": {
