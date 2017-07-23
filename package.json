@@ -1,0 +1,37 @@
+{
+  "name": "crossfilterplus",
+  "version": "0.0.2",
+  "description": "Wrapper over crossfilter to manipulate data easily. It is developer friendly in nature.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fallacy321/crossfilterplus.git"
+  },
+  "keywords": [
+    "crossfilter",
+    "data",
+    "manipulation",
+    "dc.js",
+    "wrapper",
+    "filter",
+    "sort",
+    "group"
+  ],
+  "author": {
+    "name": "Heena Mahour",
+    "email": "heena393@gmail.com",
+    "url": "https://heenamahour.blogspot.in"
+  },
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/fallacy321/crossfilterplus/issues"
+  },
+  "homepage": "https://github.com/fallacy321/crossfilterplus#readme",
+  "readme": "ERROR: No README data found!",
+  "_id": "crossfilterplus@1.0.0",
+  "_shasum": "aae792e3778e2571c4a22f404b80fc76ee9444ee",
+  "_from": "crossfilterplus@*"
+}
