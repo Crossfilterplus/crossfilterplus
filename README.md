@@ -10,6 +10,33 @@ Have a look at [home page](https://fallacy321.github.io/crossfilterplus/) for in
 Crossfilterplus is **under active development, please raise issues/ enhancements and merge requests**. We welcome genuine bug-fixes and PRs. The main developer and author associated with crossfilterplus is Heena Mahour at the moment.
 
 A new [Crossfilterplus Organization](https://github.com/Crossfilterplus) has been created on Github.
+
+### Development Environment
+
+Clone the repo:
+```sh
+git clone https://github.com/Crossfilterplus/crossfilterplus.git
+```
+
+Move into that directory:
+```sh
+cd crossfilterplus
+```
+
+Install the dependencies:
+```sh
+npm install
+```
+
+### Using crossfilterplus npm module
+```sh
+npm install crossfilterplus
+```
+
+```sh
+var crossfilterPlus = require('crossfilterplus')
+```
+
 ## Future plans
 
 - We need active contributors !!
